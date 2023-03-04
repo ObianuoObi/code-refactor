@@ -1,28 +1,31 @@
-Code Refactor
+# Title : Code Refactor
 
-   Website for marketing agency
+## Description:
+ Website for marketing agency
 
-Technologies Used
+   _This webpage showcases the semantic HTML elements that follow a logical structure and consolidates CSS selectors and propeties to make it more efficient and accessible._
+
+
+### Technologies Used
    HTML
    CSS
 
-Description
+### Author
+Obinna Obianuo
 
-   This webpage showcases the semantic HTML elements that follow a logical structure and consolidates CSS selectors and propeties to make it more efficient and accessible.
 
-
-Setup/Installation Requirements
-
+#### Setup/Installation Requirements
+  git clone 
   Deploy index.html to webserver from root directory
   Include CSS and Image folder in their original file structure
   Load webserver
 
 
-Known Bugs
+#### Known Bugs
 
   No media queries or responsive elements
   
-Screenshots
+#### Screenshots
 
-background-image: url("../images/digital-marketing-meeting.jpg");
+! [Screenshot]()
 
