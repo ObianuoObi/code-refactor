@@ -26,12 +26,3 @@ Screenshots
 
 background-image: url("../images/digital-marketing-meeting.jpg");
 
-  
-
- 
-
-
-   
-
-
-
